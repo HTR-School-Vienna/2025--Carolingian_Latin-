@@ -1,0 +1,150 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Carolingian Latin Group HTR Wien Winter School 2025
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Fiammetta
+    family-names: 'Comelli '
+    email: fiammettacomelli@gmail.com
+    affiliation: University of Ghent
+    orcid: 'https://orcid.org/0009-0000-1109-5795'
+  - given-names: 'Francesca '
+    family-names: 'De Marco '
+    email: demarcofrancesca@outlook.it
+    affiliation: Fondazione Ezio Franceschini
+    orcid: 'https://orcid.org/0009-0008-8781-5654'
+  - given-names: Roberta
+    family-names: Molinari
+    email: roberta.molinari@unicas.it
+    affiliation: 'University of Cassino '
+    orcid: 'https://orcid.org/0009-0002-8090-5346'
+  - family-names: Abrahamek
+    given-names: Bernadette
+    orcid: 'https://orcid.org/0009-0004-0083-5646'
+    email: bernadette.abrahamek@oeaw.ac.at
+    affiliation: Österreichische Akademie der Wissenschaften
+  - given-names: Cinzia
+    family-names: Grifoni
+    email: cinzia.grifoni@oeaw.ac.at
+    affiliation: Österreichische Akademie der Wissenschaften
+    orcid: 'https://orcid.org/0000-0002-0560-6031'
+  - family-names: Pürstinger
+    given-names: Leon
+    email: leon.puerstinger@oeaw.ac.at
+    affiliation: Österreichische Akademie der Wissenschaften
+    orcid: 'https://orcid.org/0000-0002-7027-1020'
+  - family-names: Heydemann
+    given-names: Gerda
+    orcid: 'https://orcid.org/0000-0002-2584-7190'
+  - given-names: Jeremy
+    family-names: Thompson
+    orcid: 'https://orcid.org/0009-0005-4169-6256'
+    email: jeremy.thompson@uni-goettingen.de
+    affiliation: 'University of Göttingen '
+  - given-names: Bill
+    family-names: Weis
+    orcid: 'https://orcid.org/0009-0005-6711-922X'
+    email: williamvweis@gmail.com
+  - given-names: 'Niels '
+    family-names: Becker
+    email: niels.becker@lmu.de
+    orcid: 'https://orcid.org/0009-0003-8619-9240'
+    affiliation: ' Ludwig-Maximilians-Universität München'
+  - given-names: Chiara
+    family-names: Calvano
+    orcid: 'https://orcid.org/0000-0003-1995-9329'
+    email: chiara.calvano@unive.it
+    affiliation: 'Università Ca'' Foscari '
+  - family-names: Carabellese
+    orcid: 'https://orcid.org/0009-0002-4283-7055'
+    given-names: Marilena
+    email: m.carabellese1@universityofgalway.ie
+    affiliation: University of Galway
+  - family-names: Cash
+    given-names: John
+    orcid: 'https://orcid.org/0009-0004-8649-1230'
+  - family-names: Danilova
+    given-names: Natalia
+    orcid: 'https://orcid.org/0009-0007-2737-4669'
+    email: nat.v.danilova@gmail.com
+  - orcid: 'https://orcid.org/0000-0003-1611-710X'
+    family-names: Ershova
+    given-names: Ekaterina
+    email: e.ershova02@gmail.com
+  - family-names: Fromhund
+    given-names: Elisabeth
+    email: elisabeth.fromhund@univie.ac.at
+    orcid: 'https://orcid.org/0009-0008-5147-6638'
+    affiliation: University of Wien
+  - family-names: Haack
+    orcid: 'https://orcid.org/0009-0006-1777-6966'
+    given-names: Christoph
+    email: christoph.haack@uni-tuebingen.de
+    affiliation: 'University of Tübingen '
+  - family-names: Heeley
+    orcid: 'https://orcid.org/0009-0001-7347-8238'
+    given-names: Alice
+    email: amb50@hi.is
+  - orcid: 'https://orcid.org/0009-0008-9930-7702'
+    family-names: Kashina
+    given-names: Elena
+    email: elenatrondheim9@gmail.com
+  - family-names: Lippitsch
+    orcid: 'https://orcid.org/0009-0001-3225-8562'
+    given-names: Leonhard
+    email: leo@lippitsch.at
+  - family-names: Mancini
+    orcid: 'https://orcid.org/0009-0007-8117-2806'
+    given-names: Andrea
+    email: a.mancini@leeds.ac.uk
+    affiliation: University of Leeds
+  - orcid: 'https://orcid.org/0009-0005-0953-322X'
+    family-names: Niens
+    given-names: Moritz
+    email: moritz.niens2000@gmail.com
+  - orcid: 'https://orcid.org/0000-0003-2219-4347'
+    given-names: Marcos Fabián
+    family-names: Polisena
+    email: marcos.polisena@gmail.com
+  - family-names: Romanovskaya
+    orcid: 'https://orcid.org/0009-0007-9788-7291'
+    given-names: Elizaveta
+    email: elizavetar541@gmail.com
+  - family-names: Rumetshofer
+    orcid: 'https://orcid.org/0009-0000-8899-174X'
+    given-names: Noah
+    email: noah.rumetshofer@univie.ac.at
+    affiliation: University of Wien
+  - family-names: Şimşek
+    given-names: 'Cihan '
+    orcid: 'https://orcid.org/0000-0002-9096-4406'
+  - family-names: Wascheck
+    orcid: 'https://orcid.org/0009-0005-6524-852X'
+    given-names: Erik
+    email: erikwascheck@gmail.com
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17912590
+repository-code: >-
+  https://github.com/HTR-School-Vienna/2025--Carolingian_Latin-.git
+abstract: >-
+  This project reports the ground truth data from the
+  automatic transcription of Latin manuscripts, written in
+  Carolingian minuscule (9th-12th ct.), performed using
+  Transkribus  in order to train the Carolingian Minuscule
+  Model 2025 (CMM 2025)
+keywords:
+  - 'automatic transcription '
+  - carolingian minuscule
+  - htr
+  - historical sources
+  - 'early medieval manuscripts '
+  - winter school 2025
+  - transkribus
+license: CC-BY-4.0
+version: '1'
