@@ -1,0 +1,173 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: Carolingian Latin Group HTR Wien Winter School 2025
+url: https://github.com/HTR-School-Vienna/2025--Carolingian_Latin-.git
+authors:
+  - name: Fiammetta
+    surname: 'Comelli '
+    orcid: 0009-0000-1109-5795
+    roles:
+      - transcriber
+  - name: Roberta
+    surname: Molinari
+    orcid: 0009-0002-8090-5346
+    roles:
+      - transcriber
+  - name: Francesca
+    surname: 'De Marco '
+    orcid: 0009-0008-8781-5654
+    roles:
+      - transcriber
+  - name: Bernadette
+    surname: Abrahamek
+    orcid: 0009-0004-0083-5646
+    roles:
+      - transcriber
+      - quality-control
+  - name: Cinzia
+    surname: 'Grifoni '
+    orcid: 0000-0002-0560-6031
+    roles:
+      - transcriber
+      - quality-control
+  - name: Leon
+    surname: Pürstinger
+    orcid: 0000-0002-7027-1020
+    roles:
+      - transcriber
+      - quality-control
+  - name: Gerda
+    surname: Heydemann
+    orcid: 0000-0002-2584-7190
+    roles:
+      - transcriber
+      - quality-control
+  - name: Jeremy
+    surname: Thompson
+    orcid: 0009-0005-4169-6256
+    roles:
+      - transcriber
+      - quality-control
+  - name: Bill
+    surname: Weis
+    orcid: 0009-0005-6711-922X
+    roles:
+      - transcriber
+      - quality-control
+  - name: Niels
+    surname: Becker
+    orcid: 0009-0003-8619-9240
+    roles:
+      - transcriber
+  - name: Chiara
+    surname: Calvano
+    orcid: 0000-0003-1995-9329
+    roles:
+      - transcriber
+  - name: Marilena
+    surname: Carabellese
+    orcid: 0009-0002-4283-7055
+    roles:
+      - transcriber
+  - name: John
+    surname: Cash
+    orcid: 0009-0004-8649-1230
+    roles:
+      - transcriber
+  - name: Natalia
+    surname: Danilova
+    orcid: 0009-0007-2737-4669
+    roles:
+      - transcriber
+  - name: Ekaterina
+    surname: Ershova
+    orcid: 0000-0003-1611-710X
+    roles:
+      - transcriber
+  - name: Elisabeth
+    surname: Fromhund
+    orcid: 0009-0008-5147-6638
+    roles:
+      - transcriber
+  - name: Christoph
+    surname: Haack
+    orcid: 0009-0006-1777-6966
+    roles:
+      - transcriber
+  - name: Alice
+    surname: Heeley
+    orcid: 0009-0001-7347-8238
+    roles:
+      - transcriber
+  - name: Elena
+    surname: Kashina
+    orcid: 0009-0008-9930-7702
+    roles:
+      - transcriber
+  - name: Leonhard
+    surname: Lippitsch
+    orcid: 0009-0001-3225-8562
+    roles:
+      - transcriber
+  - name: Andrea
+    surname: Mancini
+    orcid: 0009-0007-8117-2806
+    roles:
+      - transcriber
+  - name: Moritz
+    surname: Niens
+    orcid: 0009-0005-0953-322X
+    roles:
+      - transcriber
+  - name: Marcos Fabián
+    surname: Polisena
+    orcid: 0000-0003-2219-4347
+    roles:
+      - transcriber
+  - name: Elizaveta
+    surname: Romanovskaya
+    orcid: 0009-0007-9788-7291
+    roles:
+      - transcriber
+  - name: Noah
+    surname: Rumetshofer
+    orcid: 0009-0000-8899-174X
+    roles:
+      - transcriber
+  - name: Cihan
+    surname: Şimşek
+    orcid: 0000-0002-9096-4406
+    roles:
+      - transcriber
+  - name: Erik
+    surname: Wascheck
+    orcid: 0009-0005-6524-852X
+    roles:
+      - transcriber
+institutions: []
+description: >-
+  This project reports the ground truth data from the automatic transcription of
+  Latin manuscripts, written in Carolingian minuscule (9th-12th ct.), performed
+  using Transkribus  in order to train the Carolingian Minuscule Model 2025 (CMM
+  2025)
+project-name: 2025--Carolingian_Latin
+language:
+  - lat
+production-software: Transkribus
+automatically-aligned: false
+script:
+  - iso: Latn
+    qualify: carolingian minuscule
+script-type: only-manuscript
+time:
+  notBefore: '800'
+  notAfter: '1199'
+hands:
+  count: '1'
+  precision: exact
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+format: Page-XML
+transcription-guidelines: >-
+  It follows the transcription principles of the Carolingian model 2025 v2
+  (https://zenodo.org/communities/testo/records?q=&l=list&p=1&s=10&sort=newest)
